@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibliot", "Bibliot.csproj", "{404AA630-B4A3-4E26-A9A8-E3D0582C9E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404AA630-B4A3-4E26-A9A8-E3D0582C9E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404AA630-B4A3-4E26-A9A8-E3D0582C9E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404AA630-B4A3-4E26-A9A8-E3D0582C9E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404AA630-B4A3-4E26-A9A8-E3D0582C9E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52C853ED-9129-45A6-90AE-80DD484DAFB0}
+	EndGlobalSection
+EndGlobal
